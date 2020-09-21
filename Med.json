@@ -1,0 +1,10 @@
+[
+ {
+  "MedecineName": "Paracetamol",
+  "Brand": "CIPLA",
+  "Price": 23.23,
+  "Quantity": 2,
+  "ExpiryDate": "01/01/2021",
+  "Notes": "This is good for fever"
+ }
+]
